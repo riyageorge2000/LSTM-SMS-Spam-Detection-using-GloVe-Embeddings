@@ -1,4 +1,5 @@
 # LSTM-Spam-Detection-using-GloVe-Embeddings
+# LSTM-SMS-Spam-Detection-using-GloVe-Embeddings
 
 This repository contains code for a Long Short-Term Memory (LSTM) model trained to detect spam messages using GloVe word embeddings. It aims to classify SMS messages as either spam or ham (non-spam) using deep learning techniques, specifically LSTM networks.
 
